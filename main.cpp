@@ -25,13 +25,8 @@ struct Item {
     double eachPrice;
 
 } myStock[] = {
-<<<<<<< HEAD
-    {"A100", 20, "Hammer", 10.0},
-    {"A250", 25, "Saw", 3.95},
-=======
     {"A100", 20, "Hammer", 13.0},
     {"A250", 25, "Saw", 13.95},
->>>>>>> 8d1c2da2d02a97874ab321872005aa87e27ab899
     {"B400", 50, "Flat-Head Nails", 11.99},
     {"C888", 50, "Flat-Head Screwdriver", 6.59},
     {"A499", 75, "Pliers", 4.95},
